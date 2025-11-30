@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="hakkimizda.aspx.cs" Inherits="CE_KarakulakHukuk.hakkimizda" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="sigortahukuku.aspx.cs" Inherits="CE_BirdalKarakulakHukuk.sigortahukuku" %>
 
 <!DOCTYPE html>
 
@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Borçlar Hukuku | Karakulak Hukuk Bürosu</title>
+    <title>Sigorta Hukuku | Karakulak Hukuk Bürosu</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -65,17 +65,17 @@
 
     <section class="page-section about-heading">
       <div class="container">
-        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0 ali" src="img/img_hukuklar/borclarhukuku_genel.jpg" style="width:512px; height:288px;" alt="">
+        <img class="img-fluid rounded about-heading-img mb-3 mb-lg-0 ali" src="img/img_hukuklar/sigorta_hukuku_genel.jpg" style="width:512px; height:288px;" alt="">
         <div class="about-heading-content">
           <div class="row">
             <div class="col-xl-9 col-lg-10 mx-auto">
               <div class="bg-faded rounded p-5">
                 <h2 class="section-heading mb-4">
-                  <span class="section-heading-upper">Borçlar Hukuku</span>
+                  <span class="section-heading-upper">Sigorta Hukuku</span>
                   <!--<span class="section-heading-lower">About Our Cafe</span>-->
                 </h2>
-                <p><li>Borçlar Kanunu genel hükümlerini içeren sözleşmeleri kaleme alır ve ifa ederiz.</li><br> 	<li>Haksız fiiller, sözleşmelerden kaynaklı veya haksız fiilden kaynaklı maddi manevi tazminat talepleri, sözleşmelerin iptali, sözleşmeden dönme, sorumluluklar, temerrüde düşme, borcun düşmesi, cari hesap, alacağın temliki, borcun nakli, malvarlığının veya işletmenin devri, işletmelerin birleşmesi ve şekil değiştirmesi gibi konularda müvekkillerimize hukuki danışmanlık yaparız.</li><br> 	<li>Borçlar Kanununun Özel Hükümlerde düzenlenmiş olan taşınır ve taşınmaz satımı, trampa, bağışlama, kira, hasılat kirası, ariyet, ödünç, hizmet, istisna, yayım, vekalet, itibar mektubu ve itibar emri, tellallık, vekaletsiz iş görme, komisyon, ticari mümessiller ve ticari vekalet, havale, emanet, kefalet, kumar ve bahis, kaydıhayat ile irad, ölünceye kadar bakma sözleşmesi, adi şirket ve diğer tüm kanunlarda yer alan sözleşme konularında hukuki danışmanlık ve anlaşmazlıkların çözümü yoğun olarak çalıştığımız konulardır.</li><br> 	<li>Borçlar Hukuku alanında en çok açılan davalar gerek sözleşmeden gerekse haksız eylemden doğan sorumluluk davalarıdır.</li><br> 	<li>Kusura dayanmayan sözleşme dışı yani kusursuz sorumluluk davalarını da uzman avukatlarımızla takip etmekteyiz.</li><br> 	<li>Borçlar yasasındaki kusursuz sorumluluk halleri, temyiz gücünden yoksun olanların sorumluluğu, adam kullananın sorumluluğu, tüzel kişinin organın haksız eyleminden sorumluluğu, yapı ya da inşa eseri malikinin sorumluluğu ve Medeni Kanundan kaynaklanan kusursuz sorumluluk halleri, aile reisinin sorumluluğu, taşınmaz malikinin sorumluluğu, komşuluk hukukundan doğan ödevlere aykırılık yoğun olarak ele aldığımız konulardır.</li></p>
-                  
+                <p><li>Sigorta hukuku, sigortacının bir prim karşılığında, kişinin para ile ölçülebilir bir menfaatini zarara uğratan tehlikenin, rizikonun, meydana gelmesi hâlinde bunu tazmin etmeyi ya da bir veya birkaç kişinin hayat süreleri sebebiyle ya da hayatlarında gerçekleşen bazı olaylar dolayısıyla bir para ödemeyi veya diğer edimlerde bulunmayı yükümlendiği sözleşmeleri ve bu sözleşmelerden doğan hak ve yükümlülükleri inceleyen, ticaret hukuku kapsamına giren bir özel hukuk dalıdır.</li></p>
+                  <br/><br/>
                   <!-- BURASI KÜÇÜK LOGO -->
                 
                  <div class="d-none d-md-block d-lg-block" style="width:100%; text-align:right;">
@@ -89,7 +89,7 @@
         </div>
       </div>
     </section>
-        
+
 <%--    <footer class="footer text-faded text-center py-5">
       <div class="container">
         <p class="m-0 small">Copyright &copy; 2018 Karakulak Hukuk | Developer Ç.Erdoğdu </p>

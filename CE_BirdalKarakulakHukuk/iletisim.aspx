@@ -257,7 +257,7 @@
     <footer class="footer text-faded text-center py-5">
       <div class="container">
         <div id="mesaj">
-            <p class="m-0 small"> <a class="aciklama" href="#" data-title="cagatayerdogdu@hotmail.com"> Copyright &copy; 2018 Karakulak Hukuk | Developer <font color="#d0d0d0"> Ç.Erdoğdu </font></a></p>                 
+            <p class="m-0 small"> <a class="aciklama" href="#" data-title="www.cagatayerdogdu.com"> Copyright &copy; 2018 Karakulak Hukuk | Developer <font color="#d0d0d0"> Ç.Erdoğdu </font></a></p>                 
         </div>
       </div>
     </footer>

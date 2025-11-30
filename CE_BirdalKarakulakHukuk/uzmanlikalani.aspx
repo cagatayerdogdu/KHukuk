@@ -104,6 +104,50 @@
 
         
 
+        
+
+     <section class="page-section">
+      <div class="container">
+        <div class="product-item">
+          <div class="product-item-title d-flex">
+            <div class="bg-faded p-5 d-flex mr-auto rounded">
+              <h2 class="section-heading mb-0">
+                <span class="section-heading-upper">SİGORTA HUKUKU</span>
+                <span class="section-heading-lower">KARAKULAK HUKUK BÜROSU</span> <!--Coffees &amp; Teas-->
+              </h2>
+            </div>
+          </div>
+          <img class="product-item-img mx-auto d-flex rounded img-fluid mb-3 mb-lg-0" src="img/img_hukuklar/sigorta_hukuku_mini.jpg" style="width:700px; height:350px;" alt="">
+          <div class="product-item-description d-flex ml-auto">
+            <div class="bg-faded p-5 rounded">
+              <p class="mb-0">
+                  <li>Sigorta hukuku, sigortacının bir prim karşılığında, kişinin para ile ölçülebilir bir menfaatini zarara uğratan tehlikenin, rizikonun, meydana gelmesi hâlinde bunu tazmin etmeyi ya da bir veya birkaç kişinin hayat süreleri sebebiyle ya da hayatlarında gerçekleşen bazı olaylar dolayısıyla bir para ödemeyi veya diğer edimlerde bulunmayı yükümlendiği sözleşmeleri ve bu sözleşmelerden doğan hak ve yükümlülükleri inceleyen, ticaret hukuku kapsamına giren bir özel hukuk dalıdır.</li><br> 	<a href="sigortahukuku.aspx" >Devamı için tıklayınız...</a></p>
+
+                <!-- BURASI KÜÇÜK LOGO -->
+                
+                 <div class="d-none d-md-block d-lg-block" style="width:100%; text-align:right;">
+                    <img src="img/img/png/logo.png" alt="" style="width:300px; position:absolute; float:right; margin-left: -160px; margin-top: -60px; -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;" />
+
+                         <%-- <div class="d-none d-md-block d-lg-block" style="width:100%; text-align:right;">
+                        <img src="img/img/png/logo.png" alt="" style="width:300px; position:absolute; float:right; margin-left:-100px; -webkit-border-radius: 30px;-moz-border-radius: 30px;border-radius: 30px;" />
+                        </div>--%>
+
+                <!-- BURASI KÜÇÜK LOGO -->
+
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+
+
+
+
+
+        
+
      <section class="page-section">
       <div class="container">
         <div class="product-item">
@@ -453,7 +497,7 @@
     <footer class="footer text-faded text-center py-5">
       <div class="container">
         <div id="mesaj">
-            <p class="m-0 small"> <a class="aciklama" href="#" data-title="cagatayerdogdu@hotmail.com"> Copyright &copy; 2018 Karakulak Hukuk | Developer Ç.Erdoğdu </a></p>                 
+            <p class="m-0 small"> <a class="aciklama" href="#" data-title="www.cagatayerdogdu.com"> Copyright &copy; 2018 Karakulak Hukuk | Developer Ç.Erdoğdu </a></p>                 
         </div>
       </div>
     </footer>

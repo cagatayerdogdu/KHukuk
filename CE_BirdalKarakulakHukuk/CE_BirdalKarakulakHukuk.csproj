@@ -125,6 +125,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ailehukuku.aspx" />
+    <Content Include="sigortahukuku.aspx" />
     <Content Include="bankacilikvefinanshukuku.aspx" />
     <Content Include="bin\CE_BirdalKarakulakHukuk.dll" />
     <Content Include="bin\CE_BirdalKarakulakHukuk.pdb" />
@@ -235,6 +236,13 @@
     </Compile>
     <Compile Include="ailehukuku.aspx.designer.cs">
       <DependentUpon>ailehukuku.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="sigortahukuku.aspx.cs">
+      <DependentUpon>sigortahukuku.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="sigortahukuku.aspx.designer.cs">
+      <DependentUpon>sigortahukuku.aspx</DependentUpon>
     </Compile>
     <Compile Include="bankacilikvefinanshukuku.aspx.cs">
       <DependentUpon>bankacilikvefinanshukuku.aspx</DependentUpon>
