@@ -7,11 +7,11 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace CE_BirdalKarakulakHukuk
+namespace CE_KarakulakHukuk
 {
 
 
-    public partial class sigortahukuku
+    public partial class _sigortahukuku
     {
 
         /// <summary>

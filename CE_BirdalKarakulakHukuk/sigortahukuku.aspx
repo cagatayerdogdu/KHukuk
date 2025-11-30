@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="sigortahukuku.aspx.cs" Inherits="CE_BirdalKarakulakHukuk.sigortahukuku" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="sigortahukuku.aspx.cs" Inherits="CE_KarakulakHukuk._sigortahukuku" %>
 
 <!DOCTYPE html>
 

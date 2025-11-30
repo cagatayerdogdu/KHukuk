@@ -5,9 +5,9 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace CE_BirdalKarakulakHukuk
+namespace CE_KarakulakHukuk
 {
-    public partial class bankacilikvefinanshukuku : System.Web.UI.Page
+    public partial class _sigortahukuku : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
