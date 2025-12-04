@@ -74,7 +74,7 @@
               <span class="section-heading-upper">KARAKULAK</span>
               <span class="section-heading-lower">HUKUK BÜROSU HAKKINDA</span>
             </h2>
-            <p class="mb-3">Karakulak Hukuk Bürosu Türkiye’nin önde gelen hukuk bürolarından biri olan Av.Şeyma Karakulak ve Adil Fatih Karakulak'ın kurucusu olduğu hukuk ofisimiz ilk olarak 2007 yılında Ümraniye’de faaliyete başlamış, 2014 yılında Beylikdüzü'nde ve 2021 yılında Ataşehir'de diğer ofisimiz kurularak yeni yerinde 20 kişiden oluşan profesyonel kadrosu ile danışmanlık ve avukatlık hizmeti vermektedir.
+            <p class="mb-3">Karakulak Hukuk Bürosu Türkiye’nin önde gelen hukuk bürolarından biri olan Av.Şeyma Karakulak ve Av.Adil Fatih Karakulak'ın kurucusu olduğu hukuk ofisimiz ilk olarak 2007 yılında Ümraniye’de faaliyete başlamış, 2014 yılında Beylikdüzü'nde ve 2021 yılında Ataşehir'de diğer ofisimiz kurularak yeni yerinde 20 kişiden oluşan profesyonel kadrosu ile danışmanlık ve avukatlık hizmeti vermektedir.
 
             </p>
             <div class="intro-button mx-auto">
